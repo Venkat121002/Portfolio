@@ -32,3 +32,9 @@ This is a professional portfolio website designed to highlight my expertise in *
 - **JavaScript**
 - **Bootstrap** (for responsive design)
 
+## ✨ Highlights
+- **Dark Mode:** Stunning design with a modern dark theme.
+- **Skill Icons:** Displayed with concise descriptions for clarity.
+- **Responsive:** Optimized for mobile, tablet, and desktop devices.
+- **Interactive:** Includes a contact form for visitors to get in touch easily.
+
